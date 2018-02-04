@@ -1,3 +1,5 @@
+🚨 No longer working as of 4/3/18 please see https://github.com/kurt-culley/ScrapeTrainV2 🚨
+
 # ScrapeTrain
 A simple TrakTrain beat downloader
 
